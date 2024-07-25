@@ -1,7 +1,7 @@
 Executed IMDb Movies Analysis project with SQL, demonstrating adept query skills and data-driven insights for effective decision-making.
 
 **CODES**
-use imdb;
+- use imdb;
 ------ SEGMENT 1: Database - Tables, Columns, Relationships
 ----- Q1. What are the different tables in the database and how are they connected to each other in the database?
 /* Ans. The database contains the following tables:
